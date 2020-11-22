@@ -1,5 +1,5 @@
 {
-  "name": "@star/exceljs",
+  "name": "@star-linen/exceljs",
   "version": "4.2.0",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "license": "MIT",
